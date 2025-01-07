@@ -1,12 +1,11 @@
-
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9100F7&vCenter=true&random=false&width=435&lines=Hi+I+Am+Naveen+Sudaraka+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 
-<h1 align = "center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Prathibha 😄😙 </h1>
-<h2 align = "center"> I am System Software Developer :octocat:</h2>
+<h2 align = "center"> I am Software Engineer </h2>
 
-# About me :octocat:
+# About me
 
-I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software Developer intern and a Mobile Application Designer and Developer :heart:. A Coffee lover :coffee:. 
+I'm Naveen Sudaraka. I am a Student at SLIIT👩‍🎓 , Software Engineer intern at SLT :heart:.
 <br>
 
 - 🌱 I’m currently study at SLIIT University  
