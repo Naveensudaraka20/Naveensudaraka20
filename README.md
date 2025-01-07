@@ -5,10 +5,9 @@
 
 # About me
 
-I'm Naveen Sudaraka. I am a Student at SLIIT👩‍🎓 , Software Engineer intern at SLT :heart:.
+<h2>I'm Naveen Sudaraka. I am a Student at SLIIT👩‍🎓 , Software Engineer intern at SLT :heart:.</h2>
 
 # Skills :octocat:
-<br>
   - 🖌️ Figma<br>
   - 💻 HTML<br>
   - 💻 CSS<br>
