@@ -8,33 +8,25 @@
 I'm Naveen Sudaraka. I am a Student at SLIIT👩‍🎓 , Software Engineer intern at SLT :heart:.
 <br>
 
-- 🌱 I’m currently study at SLIIT University  
-- 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
+- 🌱 I’m currently study at SLIIT University
 
  <br>
 
-  <img align="right" src="giphy.gif" width="400"/>
-
 # Skills :octocat:
-  - 🖌️Illustrator<br>
   - 🖌️Figma<br>
   - 💻 HTML<br>
   - 💻 CSS<br>
   - 💻 Spring Boot<br>
-  - 💻 Vue Js<br>
   - 💻 React<br>
-  - 💻 SpringBoot<br>
+  - 💻 Java<br>
   - 📱 Kotlin<br>
-  - 📱 Java<br>
-  - 📱 Flutter<br>
   - 💻 JS<br>
   - 💻 MERN Stack<br>
+  - 💻 Laravel<br>
 
 
-# :stuck_out_tongue: Let's Get in touch :coffee:
-- My virtul Designs [Dribbble](https://dribbble.com/Prathibha22).
-- Connect with me on [Linkedin](https://www.linkedin.com/in/prathibha-sithumini-74b427214/).
-- Hire me in Fiver [Fiver](http://www.fiverr.com/s/l1KAqR)
+# Let's Get in touch :coffee:
+- Connect with me on [Linkedin](www.linkedin.com/in/naveen-jayaneththi-033bb82a1).
 
 # :fire: My Stats 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrathibhaSithu&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
