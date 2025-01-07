@@ -7,7 +7,6 @@
 
 I'm Naveen Sudaraka. I am a Student at SLIIT👩‍🎓 , Software Engineer intern at SLT :heart:.
 
- <br>
 # Skills :octocat:
 <br>
   - 🖌️ Figma<br>
